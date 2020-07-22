@@ -51,8 +51,8 @@ def exportToPremiere(ffmpeg, myInput, newOutput, silentT, zoomT, frameMargin, sa
     ana = 'FALSE' # anamorphic
     alphatype = 'none'
     depth = '16'
-    width = '1280'
-    height = '720'
+    width = '1920'
+    height = '1080'
     pixelar = 'square' # pixel aspect ratio
     colordepth = '24'
     sr = sampleRate
